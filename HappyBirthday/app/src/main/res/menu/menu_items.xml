@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_24"
+        />
+    <item
+        android:id="@+id/favorite"
+        android:title="Blessings"
+        android:icon="@drawable/ic_favorite_24"
+        />
+    <item
+        android:id="@+id/celebrate"
+        android:title="Celebrate"
+        android:icon="@drawable/ic_baseline_celebration_24"
+        />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_share_24"
+        />
+
+
+
+
+</menu>
